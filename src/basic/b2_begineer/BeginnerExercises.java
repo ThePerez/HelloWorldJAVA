@@ -32,5 +32,4 @@ public class BeginnerExercises {
         puntaje = 100; // Inicialización
         System.out.println("Mi puntaje es: " + puntaje);
     }
-
 }
